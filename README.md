@@ -16,6 +16,7 @@ DataSet = [[165, 66, 16], [163, 98, 15], [148, 34, 17], [173, 54, 18], [191, 70,
 ```
 # Gender 
 Here Is The Second Step That We've Used For Classifying Our DataSet.
+
 General Culture ---> homina = man | domina = women
 ``` python
 Gender = ["homina", "homina", "domina", "domina", "homina", "homina", "domina", "domina",
@@ -27,4 +28,4 @@ Gender = ["homina", "homina", "domina", "domina", "homina", "homina", "domina", 
 
 # P.S
 I have developed this project for my Youtube Channel.You can access to that video by just clicking to this link --> https://www.youtube.com/channel/UCmmqyPyvNdI-4yL3UrHbZbQ
-Don't Forget To Suscribe 😃
+Don't Forget To Subscribe 😃
